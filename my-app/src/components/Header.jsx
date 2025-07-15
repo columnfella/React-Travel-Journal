@@ -1,7 +1,7 @@
 export default function Header() {
     return (
         <header>
-            <svg xmlns="http://www.w3.org/2000/svg" fill="#962f51ff" class="bi bi-globe" viewBox="0 0 16 16" id="Globe--Streamline-Bootstrap" height="24" width="24">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="#ffffffff" class="bi bi-globe" viewBox="0 0 16 16" id="Globe--Streamline-Bootstrap" height="24" width="24">
                 <desc>
                     Globe Streamline Icon: https://streamlinehq.com
                 </desc>
