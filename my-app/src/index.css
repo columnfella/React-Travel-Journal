@@ -35,6 +35,9 @@ header > h1 {
 
 .entry-img-container {
   width: 20%;
+  flex: 0 0 20%;
+  aspect-ratio: 4 / 3;
+  overflow: hidden;
 }
 
 .entry-img-container > img {
@@ -46,6 +49,7 @@ header > h1 {
 
 .entry-info-container {
   padding: 7px;
+  flex: 1;
 }
 
 .entry-location-info {
