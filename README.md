@@ -1,5 +1,25 @@
 # React Travel Journal
 
-This repository contains a **React-built** page showing a journal of travel locations that I created as a way to practice my React skills.
+A travel journal page built with **React**. Each destination is rendered as a reusable card component from a data file.
 
-Note: This repository is an exercise from Bob Zirroll's React course on the Scrimba platform: [https://scrimba.com/learn-react-c0e](https://scrimba.com/learn-react-c0e)
+## Features
+
+- Reusable `Entry` component rendered for each destination
+- Data-driven layout: destinations are defined in `src/data.js`
+- Clean card layout styled with plain CSS
+
+## Tech stack
+
+React · JavaScript · Vite
+
+## Getting started
+
+```bash
+cd my-app
+npm install
+npm run dev
+```
+
+## Credits
+
+Built while following Bob Ziroll's [Learn React](https://scrimba.com/learn-react-c0e) course on Scrimba.
